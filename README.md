@@ -1,3 +1,3 @@
 # LCD-STM32
 
-一些与LCD有关的demo
+LCD的菜单显示
